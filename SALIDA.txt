@@ -1,0 +1,10 @@
+Ingrese el 1er numero Natural:
+3
+Ingrese el 2do numero Natural:
+59
+Ingrese el 3er numero Natural:
+23
+El Mayor numero es: 59
+
+Process returned 0 (0x0)   execution time : 10.154 s
+Press any key to continue.
